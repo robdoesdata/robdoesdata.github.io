@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p></p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Rob is currently a **Senior Data Engineer** working within the UK defence sector, specialising in migrating data engineering and analytics workloads to the cloud. Rob has 7+ years of experience in developing machine learning models using Python to solve complex problems across academia and industry. With a passion for STEM communication and mentoring, he has a proven ability to lead teams of data analysts, manage projects and communicate effectively with stakeholders.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Rob graduated from the University of Leeds with an MSc and PhD in Fluid Dynamics in 2020, this work focused on developing numerical simulations of Earth’s liquid iron core. During his time in academia Rob combined numerical analysis with machine learning and data visualisation to understand rotating convection, with the results presented international conferences and published in high profile journals.
