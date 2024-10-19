@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://robdoesdata.github.io/al-folio/sitemap.xml
+Sitemap: https://robdoesdata.github.io/sitemap.xml
