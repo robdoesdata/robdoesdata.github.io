@@ -108,9 +108,30 @@
     },
     {
       "name": "Power Platform Fundamentals (PL-900)",
-      "date": "2024-02-25",
+      "date": "2023-02-25",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/48c5a5f1-f2fd-47fb-be07-7ada104669dd/public_url",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Azure AI Fundamentals (AI-900)",
+      "date": "2023-02-24",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/eb2b5a74-3c88-42e5-8351-3643b01aa3ac/public_url",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Azure Data Fundamentals (DP-900)",
+      "date": "2023-02-24",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/15673376-1bcf-478a-81df-0c301ee31f5b/public_url",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Azure Fundamentals (AZ-900)",
+      "date": "02-2023",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/29f6427e-dfd3-4aaa-823c-9777764baa3b/public_url",
       "icon": "fa-solid fa-location-dot"
     }
   ]
