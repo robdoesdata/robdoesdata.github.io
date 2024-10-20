@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Dr. Robert Long</a>. Data Engineering. Data Analytics. Machine Learning. Cloud Engineering. Python Development.
 
 profile:
   align: right
