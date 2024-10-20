@@ -11,7 +11,7 @@
     {
       "position": "Senior Data Engineer",
       "company": "Defence Science and Techonology Laboratory (Dstl)",
-      "startDate": "Jan-2023",
+      "startDate": "2023-Jan",
       "endDate": "present",
       "summary": "Leading teams of data engineers and data scientits to deliver data and AI capability in an Agile environment. Responsible for leading user engagement, delivery and technical assurance.", 
       "highlights": ["Built a data platform in Microsoft Azure to enable data analytics, machine learning applications, and generative AI solutions", "Led a team of data engineers and data scientists to deliver novel generative AI applications for speech synthesis, text generation and image generation to defence customers."]
@@ -19,24 +19,24 @@
     {
       "position": "Academic Tutor",
       "company": "Self Employed",
-      "startDate": "Sep-2021",
-      "endDate": "Jan-2023",
+      "startDate": "2024-Jan",
+      "endDate": "2021-Sep",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
     },
     {
       "position": "Postdoctoral Researcher",
       "company": "University of Liverpool",
-      "startDate": "Sep-2021",
-      "endDate": "Sep-2020",
+      "startDate": "2021-Sep",
+      "endDate": "2020-Sep",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
     },
     {
       "position": "Teaching Assistant",
       "company": "University of Leeds",
-      "startDate": "2016",
-      "endDate": "2029",
+      "startDate": "2019-Sep",
+      "endDate": "2020-June",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
     }
