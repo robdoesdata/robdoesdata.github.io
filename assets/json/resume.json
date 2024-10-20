@@ -1,13 +1,27 @@
 {
   "basics": {
-    "name": "Dr. Robert Long",
-    "job title": "Senior Data Engineer",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "robdoesdata@outlook.com",
-    "phone": "",
-    "url": "https://robdoesdata.github.io/",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
-
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
