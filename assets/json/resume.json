@@ -41,30 +41,36 @@
  
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University ofLeeds",
+      "location": "Leeds, UK",
+      "area": "Regimes and scaling laws for convection with and without rotation",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2020-06-01",
+      "endDate": "2016-09-01",
+      "courses": ["Simulations of rotating convection, combining Theoretical Geophysics, Mathematics and Machine Learning"]
+    },
+    {
+      "institution": "University ofLeeds",
+      "location": "Leeds, UK",
+      "area": "Natural flood management using Nature based solutions",
+      "studyType": "MSc",
+      "startDate": "2018-06-01",
+      "endDate": "2016-09-01",
+      "courses": ["Tabletop modelling and numerical simulations of stochastic rainfall and flood dynamics."]
+    },
+    {
+      "institution": "Coventry University",
+      "location": "Coventry, UK",
+      "area": "Applied Mathematics and Theoretical Physics",
+      "studyType": "Bsc",
+      "startDate": "2016-06-01",
+      "endDate": "2013-09-01",
+      "courses": ["Research project developed numerical models of the Ekman boundary layer."]
+    },
+    
   ],
   "awards": [
     {
