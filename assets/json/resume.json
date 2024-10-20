@@ -24,13 +24,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "position": "Senior Data Engineer",
+      "company": "Defence Science and Techonology Laboratory (Dstl)",
       "url": "https://example.com",
       "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "present",
+      "summary": "Leading teams of data engineers and data scientits to deliver data and AI capability in an Agile environment. Responsible for leading user engagement, delivery and technical assurance.", 
+      "highlights": ["Built a data platform in Microsoft Azure to enable data analytics, machine learning applications, and generative AI solutions", "Led a team of data engineers and data scientists to deliver novel generative AI applications for speech synthesis, text generation and image generation to defence customers."]
+    },
+    {
+      "position": "Senior Data Engineer",
+      "company": "Defence Science and Techonology Laboratory (Dstl)",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "present",
+      "summary": "Leading teams of data engineers and data scientits to deliver data and AI capability in an Agile environment. Responsible for leading user engagement, delivery and technical assurance.", 
+      "highlights": ["Built a data platform in Microsoft Azure to enable data analytics, machine learning applications, and generative AI solutions", "Led a team of data engineers and data scientists to deliver novel generative AI applications for speech synthesis, text generation and image generation to defence customers."]      
     }
   ],
   "volunteer": [
