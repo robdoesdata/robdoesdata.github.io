@@ -38,7 +38,6 @@
       "endDate": "2023-01-01",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
- 
     }
   ],
   
@@ -69,8 +68,7 @@
       "startDate": "2016-06-01",
       "endDate": "2013-09-01",
       "courses": ["Research project developed numerical models of the Ekman boundary layer."]
-    },
-    
+    }    
   ],
   "awards": [
     {
