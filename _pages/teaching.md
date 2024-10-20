@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching ethos and positions.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+I have developed an extensive track record of teaching across all levels from primary education through to postgraduate level across a wide range of subjects. I have 4 years of experience teaching and marking undergraduate Mathematics courses (numerical methods, applied mathematical methods and Cosmology) and spent 1 year teaching Linux and Computational Methods at postgraduate level. I worked full time as a private tutor for students who struggled with mainstream education from 2021 to 2023, covering Mathematics, Sciences, English, Economics and History at KS2, KS3, GCSE and A-level. 
+
+**My teaching ethos is built on the concept of teaching to understand and not to memorise**. While simple, this is often overlooked in classroom environments. As a private tutor I worked on a 1-to-1 or 2-to-1 basis which allowed me to tailor my lesson plans to each student's learning style and to implement alternative teaching approaches, e.g. interactive learning activities or iterative whiteboard activities. This approached allowed me to inspire and build confidence in my students whilst improving they're grades and attitude to learning. 
+
+## Testimonials
+> Rob is a very persistent teacher and will take different approaches to explain the subject in a way the student will understand and click, he never gives up. His teaching methods are excellent and adapted to each student. He is partietn and goes beyond to cover additional content to cover the syllabus.
+
+ > Liam feels relaxed in lesson and does not feel pressured. He feels he can ask any questions abnout Maths. Rob is flexible, rerliable and approachable. Liam enjoys going to his tuition. Thank you very much for all your support.
+
+> I have really enjoyed working wiith Rob. I feel morre confident in Maths, English and Sciecne. I have been answering more questions in class which I didn't do befoore. Rob makes the learning fun and easy to remember. I like going to tuition and will be doing it until I finish my GCSE's.
+
