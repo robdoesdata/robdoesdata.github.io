@@ -6,22 +6,7 @@
     "email": "robdoesdata@outlook.com",
     "phone": "",
     "url": "https://robdoesdata.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "position": "Senior Data Engineer",
@@ -36,6 +21,22 @@
       "company": "Self Employed",
       "startDate": "2021-10-01",
       "endDate": "2023-01-01",
+      "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
+      "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
+    },
+    {
+      "position": "Postdoctoral Researcher",
+      "company": "University of Liverpool",
+      "startDate": "Sep-2021",
+      "endDate": "Sep-2020",
+      "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
+      "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
+    },
+    {
+      "position": "Teaching Assistant",
+      "company": "University of Leeds",
+      "startDate": "2016",
+      "endDate": "2029",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
     }
