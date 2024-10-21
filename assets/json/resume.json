@@ -5,7 +5,8 @@
     "image": "",
     "email": "robdoesdata@outlook.com",
     "phone": "",
-    "url": "https://robdoesdata.github.io/"
+    "url": "https://robdoesdata.github.io/",
+    "LinkedIn": "https://www.linkedin.com/in/robert-long-561328289/"
     },
   "work": [
     {
@@ -19,23 +20,23 @@
     {
       "position": "Academic Tutor",
       "company": "Self Employed",
-      "startDate": "2024-Jan",
-      "endDate": "2021-Sep",
+      "startDate": "2021-Nov",
+      "endDate": "2023-Jan",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
     },
     {
       "position": "Postdoctoral Researcher",
       "company": "University of Liverpool",
-      "startDate": "2021-Sep",
-      "endDate": "2020-Sep",
+      "startDate": "2020-Sep",
+      "endDate": "2021-Sep",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
     },
     {
       "position": "Teaching Assistant",
       "company": "University of Leeds",
-      "startDate": "2019-Sep",
+      "startDate": "2017-Sep",
       "endDate": "2020-June",
       "summary": "Created student specific lessons plans for a number of subjects covering primary school, secondary school and college level. Built software to analyse school performance and national ratings.", 
       "highlights": ["Developed a web application using Streamlit to analyse GSCE performance (attainment8) through statistical analysis (hypothesis testing) and machine learning (classification and clustering). This software was adopted by teachers and each raised their aggregate score by 12-20%.", "Delivered tailored lessons (in line with to students ages 5-16 who struggled with mainstream education. Consulted with colleges and parents to identify the needs of each student, scheduling and delivery."]
