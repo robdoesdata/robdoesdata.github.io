@@ -49,8 +49,8 @@
       "location": "Leeds, UK",
       "area": "Regimes and scaling laws for convection with and without rotation",
       "studyType": "PhD",
-      "startDate": "2020.June",
-      "endDate": "2016-Sep",
+      "startDate": "2016-Sep",
+      "endDate": "2020-June",
       "courses": ["Simulations of rotating convection, combining Theoretical Geophysics, Mathematics and Machine Learning"]
     },
     {
@@ -58,8 +58,8 @@
       "location": "Leeds, UK",
       "area": "Natural flood management using Nature based solutions",
       "studyType": "MSc",
-      "startDate": "2018-June",
-      "endDate": "2016-Sep",
+      "startDate": "2016-Sep",
+      "endDate": "2018-June",
       "courses": ["Tabletop modelling and numerical simulations of stochastic rainfall and flood dynamics."]
     },
     {
@@ -89,56 +89,56 @@
   "certificates": [
     {
       "name": "Azure AI Engineer Associate",
-      "date": "2024-June",
+      "date": "2024.June",
       "issuer": "Microsoft",
       "url": "https://learn.microsoft.com/en-gb/users/robertlong-0924/credentials/c01ef33a0416e3da?ref=https%3A%2F%2Fwww.linkedin.com%2F",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Azure Data Scientist Associate",
-      "date": "2024-May",
+      "date": "2024.May",
       "issuer": "Microsoft",
       "url": "https://learn.microsoft.com/en-us/users/robertlong-0924/credentials/4f391ea9a8ce2c03?ref=https%3A%2F%2Fwww.linkedin.com%2F",
       "icon": "fa-solid fa-location-dot"
     },
         {
       "name": "Security, Compliance, and Identity Fundamentals",
-      "date": "2023-Feb",
+      "date": "2023.Feb",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/db2cb537-7342-49e1-b44a-a78d24fd06ff/public_url",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Power Platform Fundamentals",
-      "date": "2023-Feb",
+      "date": "2023.Feb",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/48c5a5f1-f2fd-47fb-be07-7ada104669dd/public_url",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Azure AI Fundamentals",
-      "date": "2023-Feb",
+      "date": "2023.Feb",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/eb2b5a74-3c88-42e5-8351-3643b01aa3ac/public_url",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Azure Data Fundamentals",
-      "date": "2023-Feb",
+      "date": "2023.Feb",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/15673376-1bcf-478a-81df-0c301ee31f5b/public_url",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Azure Fundamentals",
-      "date": "2023-Feb",
+      "date": "2023.Feb",
       "issuer": "Microsoft",
       "url": "https://www.credly.com/badges/29f6427e-dfd3-4aaa-823c-9777764baa3b/public_url",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Apached Airflow Fundamentals",
-      "date": "2024-Feb",
+      "date": "2024.Feb",
       "issuer": "Astronomer",
       "url": "https://www.credly.com/badges/541a122d-9d2c-4827-94a5-d0673f31cdba/public_url",
       "icon": "fa-solid fa-location-dot"
