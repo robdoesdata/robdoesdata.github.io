@@ -3,8 +3,8 @@ layout: post
 title: "Who is RobDoesData?"
 date: 2015-05-15 21:01:00
 description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
+tags:
+categories: 
 thumbnail: assets/img/prof_pic.png
 ---
 <img src="/assets/img/blogs/2024-02-26-robdoesdata.png" width="900">
