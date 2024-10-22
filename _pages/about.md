@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Dr. Robert Long</a>. Data Engineering. Data Analytics. Machine Learning. Cloud Engineering. Python Development.
 
