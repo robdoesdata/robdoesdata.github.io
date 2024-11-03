@@ -7,17 +7,19 @@ nav: true
 nav_order: 1
 ---
 
-### Row 1
+### Synthetic Data Generation
 
 <div style="display: flex; align-items: center;">
   <img src="../assets/img/consulting/synthetic-data-generation.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
-    <h3>Title 1</h3>
+    <h3>Creating multimedia synthetic datasets</h3>
     <p>This is some text for the first row. It describes the content related to the title and image.</p>
   </div>
 </div>
 
 ---
+
+### Cloud Engineering
 
 <div style="display: flex; align-items: center;">
   <img src="../assets/img/consulting/cloud-consulting.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
