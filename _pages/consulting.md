@@ -22,7 +22,7 @@ nav_order: 1
 ### Row 2
 
 <div style="display: flex; align-items: center;">
-  <img src="../assets/img/consulting/synthetic-data-generation.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
+  <img src="../assets/img/consulting/cloud-consulting.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <h3>Title 2</h3>
     <p>This is some text for the second row. It describes the content related to the title and image.</p>
