@@ -25,7 +25,7 @@ nav_order: 1
   <img src="../assets/img/consulting/cloud-consulting.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <h3>Title 2</h3>
-    <p>This is some text for the second row. It describes the content related to the title and image.</p>
+    <p>I can provide advice and hands-on support in the planning, deployment and configuration of infrastructure to support data and AI workloads. My key expertise is centred on building proof-of-concept demonstrators of data management, data analytics and exploitation, and multimedia AI capabilities using Microsoft Azure.</p>
   </div>
 </div>
 
