@@ -19,12 +19,10 @@ nav_order: 1
 
 ---
 
-### Row 2
-
 <div style="display: flex; align-items: center;">
   <img src="../assets/img/consulting/cloud-consulting.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
-    <h3>Title 2</h3>
+    <h3>Data and AI Solutions using Microsoft Azure</h3>
     <p>I can provide advice and hands-on support in the planning, deployment and configuration of infrastructure to support data and AI workloads. My key expertise is centred on building proof-of-concept demonstrators of data management, data analytics and exploitation, and multimedia AI capabilities using Microsoft Azure.</p>
   </div>
 </div>
