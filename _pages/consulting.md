@@ -7,17 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-### Generating Synthetic Datasets
-
-<div style="display: flex; align-items: center;">
-  <img src="../assets/img/consulting/synthetic-data-generation.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 10px;">
-  <div>
-    <p>I can generate structured and unstructured datasets which mimic real data - these could be numerical values, mulitlingual text, or even multimedia files such as image and audio. These datasets can be used to aid development of proof-of-concept capabilities, training machine learning models or even test the functionality of new software.</p>
-  </div>
-</div>
-
----
-
 ### Data and AI Solutions using Microsoft Azure
 
 <div style="display: flex; align-items: center;">
@@ -48,3 +37,16 @@ nav_order: 1
     <p>I can get more value from your data by applying machine learning techniques and predictive modelling. Using a combination of numerical analysis, text analytics and image analysis I can help solve business problems and support future decision making.</p>
   </div>
 </div>
+
+---
+
+### Generating Synthetic Datasets
+
+<div style="display: flex; align-items: center;">
+  <img src="../assets/img/consulting/synthetic-data-generation.png" alt="Image 1" style="width: 100px; height: auto; margin-right: 10px;">
+  <div>
+    <p>I can generate structured and unstructured datasets which mimic real data - these could be numerical values, mulitlingual text, or even multimedia files such as image and audio. These datasets can be used to aid development of proof-of-concept capabilities, training machine learning models or even test the functionality of new software.</p>
+  </div>
+</div>
+
+---
