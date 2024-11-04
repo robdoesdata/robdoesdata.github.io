@@ -43,7 +43,7 @@ nav_order: 1
 ### Data Analytics
 
 <div style="display: flex; align-items: center;">
-  <img src="../assets/img/consulting/advice.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
+  <img src="../assets/img/consulting/analysis.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <p>I can get more value from your data by applying machine learning techniques and predictive modelling. Using a combination of numerical analysis, text analytics and image analysis I can help solve business problems and support future decision making.</p>
   </div>
