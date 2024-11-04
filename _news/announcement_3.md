@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Placeholder  :sparkles: :smile:
+EXCITING NEWS COMING SOON  :sparkles: :smile:
