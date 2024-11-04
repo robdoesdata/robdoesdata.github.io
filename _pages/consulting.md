@@ -21,7 +21,7 @@ nav_order: 1
 ### Data and AI Solutions using Microsoft Azure
 
 <div style="display: flex; align-items: center;">
-  <img src="../assets/img/consulting/cloud-consulting.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
+  <img src="../assets/img/consulting/cloud.png" alt="Image 2" style="width: 100px; height: auto; margin-right: 10px;">
   <div>
     <p>I can provide advice and hands-on support in the planning, deployment and configuration of infrastructure to support data and AI workloads. My key expertise is centred on building proof-of-concept demonstrators of data management, data analytics and exploitation, and multimedia AI capabilities using Microsoft Azure.</p>
   </div>
